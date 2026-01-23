@@ -1,0 +1,13 @@
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime / generated data
+data.txt
